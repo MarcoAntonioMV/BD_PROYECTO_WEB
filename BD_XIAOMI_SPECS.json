@@ -1,62 +1,74 @@
 [
     {
         "nombre":"Redmi Note 11 Pro+ 5G",
-        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11 Pro+ 5G.png" 
+        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11 Pro+ 5G.png", 
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Redmi/Redmi_Note_11_Pro+_5g.html"
 
     },
     {
         "nombre":"Redmi Note 11 Pro 5G",
-        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11 Pro 5G.png" 
+        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11 Pro 5G.png",
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Redmi/Redmi_Note_11_Pro_5g.html" 
 
     },
     {
         "nombre":"Redmi Note 11 Pro",
-        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11 Pro.png"
+        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11 Pro.png",
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Redmi/Redmi_Note_11_Pro.html"
 
     },
     {
         "nombre":"Redmi Note 11S 5G",
-        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11S 5G.png"
+        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11S 5G.png",
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Redmi/Redmi_Note_11S_5G.html"
 
     },
     {
         "nombre":"Redmi Note 11S",
-        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11S.webp"
+        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11S.webp",
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Redmi/Redmi_Note_11S.html"
 
     },
     {
         "nombre":"Redmi Note 11",
-        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11.png"
+        "imagen":"IMAGENES/Imagenes Telefonos/REDMI/Redmi Note 11.png",
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Redmi/Redmi_Note_11.html"
 
     },
     {
         "nombre":"Poco X4 Pro 5g",
-        "imagen":"IMAGENES/Imagenes Telefonos/POCO/POCO-X4-PRO--3-.png"
+        "imagen":"IMAGENES/Imagenes Telefonos/POCO/POCO-X4-PRO--3-.png",
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Poco/Poco_X4_Pro_5g.html"
 
     },
     {
         "nombre":"POCO M4 Pro 5G",
-        "imagen":"IMAGENES/Imagenes Telefonos/POCO/POCO M4 Pro 5G.png"
+        "imagen":"IMAGENES/Imagenes Telefonos/POCO/POCO M4 Pro 5G.png",
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Poco/Poco_M4_Pro_5g.html"
 
     },
     {
         "nombre":"POCO M4 Pro",
-        "imagen":"IMAGENES/Imagenes Telefonos/POCO/POCO M4 Pro.png"
+        "imagen":"IMAGENES/Imagenes Telefonos/POCO/POCO M4 Pro.png",
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Poco/Poco_M4_Pro.html"
 
     },
     {
         "nombre":"Xiaomi 12 Pro",
-        "imagen":"IMAGENES/Imagenes Telefonos/XIAOMI/Xiaomi 12 Pro.png"
+        "imagen":"IMAGENES/Imagenes Telefonos/XIAOMI/Xiaomi 12 Pro.png",
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Xiaomi/Xiaomi_12_Pro.html"
 
     },
     {
         "nombre":"Xiaomi 12X",
-        "imagen":"IMAGENES/Imagenes Telefonos/XIAOMI/Xiaomi 12X.png"
+        "imagen":"IMAGENES/Imagenes Telefonos/XIAOMI/Xiaomi 12X.png",
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Xiaomi/Xiaomi_12_X.html"
 
     },
     {
         "nombre":"Xiaomi 12",
-        "imagen":"IMAGENES/Imagenes Telefonos/XIAOMI/Xiaomi 12.png"
+        "imagen":"IMAGENES/Imagenes Telefonos/XIAOMI/Xiaomi 12.png",
+        "pagina":"https://marcoantoniomv.github.io/Proyecto_PaginaWeb/VISTAS/Xiaomi/Xiaomi_12.html"
 
     }
 
